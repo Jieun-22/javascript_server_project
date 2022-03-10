@@ -1,0 +1,114 @@
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  충대약국@gamil.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 충대약국","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  충대약국@gmail.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 충대약국","level":"info"}
+{"message":"마스크 수량 업데이트를 위한 약국계정 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"충대약국@gmail.comuser가 pharmacies DB에 마스크 수량 업데이트함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  비젼약국@naver.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 비젼약국","level":"info"}
+{"message":"마스크 수량 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 재고가 있는 약국 조회하기위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"비젼약국@naver.com가 post DB에 글 추가함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"충대약국@gmail.com가 post DB에 글 추가중 에러발생 : ValidationError: post validation failed: writer: Cast to ObjectID failed for value \"충대약국@gmail.com\" at path \"writer\"\n    at new ValidationError (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:1683:32)\n    at model.$set (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:774:10)\n    at model._handleIndex (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:596:14)\n    at model.$set (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:556:24)\n    at model.Document (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:85:12)\n    at model.Model (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:56:12)\n    at new model (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:3940:13)\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\routes\\post.js:59:15\n    at model.Query.<anonymous> (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:4093:16)\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\kareem\\index.js:273:21\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\kareem\\index.js:131:16\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","level":"error"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"충대약국@gmail.com가 post DB에 글 추가중 에러발생 : ValidationError: post validation failed: writer: Cast to ObjectID failed for value \"충대약국@gmail.com\" at path \"writer\"\n    at new ValidationError (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:1683:32)\n    at model.$set (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:774:10)\n    at model._handleIndex (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:596:14)\n    at model.$set (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:556:24)\n    at model.Document (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\document.js:85:12)\n    at model.Model (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:56:12)\n    at new model (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:3940:13)\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\routes\\post.js:59:15\n    at model.Query.<anonymous> (C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\mongoose\\lib\\model.js:4093:16)\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\kareem\\index.js:273:21\n    at C:\\Users\\이지은\\brackets_nodejs\\Project\\node_modules\\kareem\\index.js:131:16\n    at processTicksAndRejections (internal/process/task_queues.js:79:11)","level":"error"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"충대약국@gmail.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"반경 내 약국 검색을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"마스크 재고가 있는 약국 조회하기위해 pharmacies DB에 접근함.","level":"info"}

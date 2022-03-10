@@ -1,0 +1,48 @@
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"마스크 수량 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"비젼약국@naver.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"ours@naver.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"새로운 users 계정 추가됨 : 지은@naver.com","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"지은@naver.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"새로운 users 계정 추가됨 : 안녕@hi.com","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"안녕@hi.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"큰사랑@gmail.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"반경 내 약국 검색을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}

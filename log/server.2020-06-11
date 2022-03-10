@@ -1,0 +1,40 @@
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  죽동약국@naver.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 중동약국","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위한 약국계정 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"죽동약국@naver.comuser가 pharmacies DB에 마스크 수량 업데이트함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  ours@naver.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 우리들의 약국","level":"info"}
+{"message":"마스크 수량 업데이트를 위한 약국계정 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"ours@naver.comuser가 pharmacies DB에 마스크 수량 업데이트함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 큰사랑약국","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  큰사랑@gmail.com","level":"info"}
+{"message":"마스크 수량 업데이트를 위한 약국계정 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"큰사랑@gmail.comuser가 pharmacies DB에 마스크 수량 업데이트함.","level":"info"}
+{"message":"반경 내 약국 검색을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 재고가 있는 약국 조회하기위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 수량 업데이트를 위한 약국계정 확인을 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 계정 회원가입을 위하여 users DB에 접근함.","level":"info"}
+{"message":"users에 새로운 약국 계정 추가됨 :  하연약국@naver.com","level":"info"}
+{"message":"pharmacies에 새로운 약국 정보 추가됨 : 하연약국","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"마스크 재고가 있는 약국 조회하기위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}

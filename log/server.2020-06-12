@@ -1,0 +1,45 @@
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/local","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/local/R12_18","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"로그인 페이지에서 users DB 조회함.","level":"info"}
+{"message":"게시판 글쓰기 기능 사용 권한 확인을 위해 users DB에 접근함.","level":"info"}
+{"message":"충대약국@gmail.com가 post DB에 글 추가함.","level":"info"}
+{"message":"글 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"약국 리스트 조회를 위해 pharmacies DB에 접근함.","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}
+{"message":"config.js 파일에 의해 DB와 라우터 정의됨.","level":"info"}
+{"message":"서버가 시작됨.","level":"info"}
+{"message":"데이터베이스에 연결되었음 : mongodb://localhost:27017/R12_18","level":"info"}
+{"message":"일반 계정으로 회원가입을 위하여 users DB에 findOne 메소드 실행중 에러발생.","level":"info"}
+{"message":"새로운 users 계정 추가됨 : 사용자@gmail.com","level":"info"}
+{"message":"게시판 글 목록 조회를 위해 posts DB에 접근함.","level":"info"}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+		
+		<title>약국 검색</title>
+		
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+    	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+    	
+    	<style>
+        	body        { padding-top:80px; }
+    	</style>
+    
+	</head>
+	<body>
+		<div class="container">
+
+			<div class="col-sm-6 col-sm-offset-3">
+		
+			    <h1><span class="fa fa-sign-in"></span> 약국이름으로 검색하세요</h1>
+			
+			    <form action="/process/search" method="post" >
+			        <div class="form-group">
+			            <label>약국 이름</label>
+			            <input type="text" class="form-control" name="pharmacyname">
+			        </div>
+			
+			        <button type="submit" class="btn btn-primary btn-lg">검색하기</button>
+			    </form>
+			
+			    <hr>
+			
+			    <p><a href="/process/masklist">마스크 재고가 있는 약국 리스트 보기</a></p>
+
+			</div>
+		
+		</div>
+
+	</body>
+</html>

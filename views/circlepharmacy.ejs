@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+		
+		<title>가까운 약국 찾기</title>
+		
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"> 
+    	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"> 
+    	
+    	<style>
+        	body        { padding-top:80px; }
+    	</style>
+    
+	</head>
+	<body>
+		<div class="container">
+
+			<div class="col-sm-6 col-sm-offset-3">
+		
+			    <h1>반경 내 약국 찾기</h1>
+                <br>
+                <h4>https://www.google.com/maps 에서 좌표를 확인하여 추가합니다.</h4>
+                <br>
+			    <form method="post" action="/process/circlepharmacy">
+			        <div class="form-group">
+			            <label>중심점 경도</label>
+			            <input type="text" class="form-control" name="center_longitude">
+			        </div>
+			        <div class="form-group">
+			            <label>중심점 위도</label>
+			            <input type="text" class="form-control" name="center_latitude">
+			        </div>
+                    <div class="form-group">
+			            <label>반경</label>
+			            <input type="text" class="form-control" name="radius">
+			        </div>
+			
+			        <button type="submit" class="btn btn-primary btn-lg" >전송</button>
+			    </form>
+			
+			    <hr>
+			
+			 
+			    <p><a href="/" class="btn btn-default">홈으로</a></p>
+
+			</div>
+		
+		</div>
+
+	</body>
+</html>

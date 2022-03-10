@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+		
+		<title>마스크 수량 관리</title>
+		
+		<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css"> 
+    	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"> 
+    	
+    	<style>
+        	body        { padding-top:80px; }
+    	</style>
+    
+	</head>
+	<body>
+		<div class="container">
+
+			<div class="col-sm-6 col-sm-offset-3">
+		
+			    <h1><span class="fa fa-sign-in"></span>마스크 수량 업데이트</h1>
+			
+			    <form action="/process/update" method="post" >
+			        <div class="form-group">
+			            <label>수량</label>
+			            <input type="Number" class="form-control" name="mask">
+                    </div>
+			        <button type="submit" class="btn btn-primary btn-lg">업데이트</button>
+			    </form>
+			
+			    <hr>
+			    <p><a href="/">홈으로</a>.</p>
+
+			</div>
+		
+		</div>
+
+	</body>
+</html>

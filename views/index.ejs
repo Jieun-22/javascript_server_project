@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+		
+		<title>홈 화면</title>
+		
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"> 
+    	
+    	<style>
+			@font-face {
+				font-family: 'Nanum Gothic'; font-style: normal; font-weight: 400;
+				src: url('../public/NanumGothic-Regular.eot');
+				src: local('NanumGothic'),
+					url('../public/NanumGothic-Regular.eot?#iefix') format('embedded-opentype'),
+					url('../public/NanumGothic-Regular.woff2') format('woff2'),
+					url('../public/NanumGothic-Regular.woff') format('woff'),
+					url('../public/NanumGothic-Regular.ttf') format('truetype');
+			}
+        	
+        	h1, p, a h2 { font-family: 'Nanum Gothic' }
+    	</style>
+        
+    
+	</head>
+	<body>
+        <div class ="jumboton text-center" style="background-color:#CDECFA">
+        <br><br>
+        <h1><img src = "./public/images/pharmacy.png" width = "60" >약국 정보 확인 사이트</h1>
+        <br>
+        </div>
+        <div style="width:100%; border:solid 1px #3333333 ;">
+            <div style="width:15%;  margin: 2px; float:left; background-color: #E1F6FA;">
+            <nav class="nav flex-column">
+                <a class="nav-link " href="/process/listpharmacy"><img src="./public/images/list.png" width="22"> 약국 리스트 보기</a>
+                <a class="nav-link " href="/process/find"><img src="./public/images/pharmacyloc.png" width="30">가까운 약국 찾기</a>
+                <a class="nav-link" href="/process/mask"><img src="./public/images/mask.png" width="30"> 마스크 수량 확인하기</a>
+                <a class="nav-link" href="/process/listpost?page=0&perPage=5"><img src="./public/images/message.png" width="25"> 게시판</a>
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+                <a class="nav-link" href="/process/setting"><img src="./public/images/gear.png" width="25"> 마스크 수량 업데이트</a>
+            </nav>
+            </div>
+        <div style="width:79%; float:left;">
+        <div class="jumboton text-center">
+		<div class="container"> 
+            <br><br>
+				<% if (login_success) { %>
+					<p>로그인되어 있습니다.</p>
+					<br>
+					<a href="/logout" class="btn btn-default"><span class="fa fa-user"></span>로그아웃</a>
+				<% } else { %>
+					<p>로그인하세요.<p>
+					<p>계정이 없으시면 회원가입하세요.</p>
+					<br>
+			        <a href="/login" class="btn btn-default"><span class="fa fa-user"></span>로그인</a>
+			        <a href="/signup" class="btn btn-default"><span class="fa fa-user"></span>회원가입</a>
+					<br>
+				<% } %>
+        </div>
+		</div>
+        </div>
+        </div>
+	</body>
+</html>
